@@ -1,0 +1,61 @@
+# Logfile created on 2017-03-09 14:45:07 -0700 by logger.rb/56438
+I, [2017-03-09T14:45:07.540380 #18506]  INFO -- : Clearing all expectations
+I, [2017-03-09T14:45:07.540450 #18506]  INFO -- : Verifying interactions for AnimalServiceClientTest
+I, [2017-03-09T14:53:09.221239 #18601]  INFO -- : Clearing all expectations
+I, [2017-03-09T14:53:09.221311 #18601]  INFO -- : Verifying interactions for AnimalServiceClientTest
+I, [2017-03-09T14:53:35.771972 #18607]  INFO -- : Clearing all expectations
+I, [2017-03-09T14:53:35.772063 #18607]  INFO -- : Verifying interactions for AnimalServiceClientTest
+I, [2017-03-09T14:56:42.045126 #18643]  INFO -- : Clearing all expectations
+I, [2017-03-09T14:56:42.045207 #18643]  INFO -- : Verifying interactions for AnimalServiceClientTest
+I, [2017-03-09T14:57:33.115994 #18656]  INFO -- : Clearing all expectations
+I, [2017-03-09T14:57:33.116082 #18656]  INFO -- : Verifying interactions for AnimalServiceClientTest
+I, [2017-03-09T14:59:24.051370 #18675]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007ff8bbad5c30> on port 1234...
+I, [2017-03-09T14:59:24.398103 #18675]  INFO -- : Started on port 1234
+I, [2017-03-09T14:59:24.406232 #18675]  INFO -- : Clearing all expectations
+I, [2017-03-09T14:59:24.409845 #18675]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T14:59:24.419064 #18675] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T15:28:30.593677 #19730]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f8864a674f0> on port 1234...
+I, [2017-03-09T15:28:30.934552 #19730]  INFO -- : Started on port 1234
+I, [2017-03-09T15:28:31.001118 #19730]  INFO -- : Clearing all expectations
+I, [2017-03-09T15:28:31.005221 #19730]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T15:28:31.014926 #19730] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T15:28:47.328284 #19735]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f88279d6e38> on port 1234...
+I, [2017-03-09T15:28:47.446410 #19735]  INFO -- : Started on port 1234
+I, [2017-03-09T15:28:47.513688 #19735]  INFO -- : Clearing all expectations
+I, [2017-03-09T15:28:47.532880 #19735]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T15:28:47.543424 #19735] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T15:29:35.244644 #19754]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f9cfa397af8> on port 1234...
+I, [2017-03-09T15:29:35.361128 #19754]  INFO -- : Started on port 1234
+I, [2017-03-09T15:29:35.427105 #19754]  INFO -- : Clearing all expectations
+I, [2017-03-09T15:29:35.444976 #19754]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T15:29:35.453392 #19754] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T15:30:21.436414 #19768]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007ffb95b96ef8> on port 1234...
+I, [2017-03-09T15:30:21.555895 #19768]  INFO -- : Started on port 1234
+I, [2017-03-09T15:30:21.627821 #19768]  INFO -- : Clearing all expectations
+I, [2017-03-09T15:30:21.638604 #19768]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T15:30:21.645629 #19768] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T16:11:59.032095 #38850]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f89f00f9750> on port 1234...
+I, [2017-03-09T16:11:59.589605 #38850]  INFO -- : Started on port 1234
+I, [2017-03-09T16:11:59.655595 #38850]  INFO -- : Clearing all expectations
+I, [2017-03-09T16:11:59.678579 #38850]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T16:11:59.686490 #38850] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T16:12:44.382450 #38864]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007ffd7ba2d9a8> on port 1234...
+I, [2017-03-09T16:12:44.492088 #38864]  INFO -- : Started on port 1234
+I, [2017-03-09T16:12:44.558007 #38864]  INFO -- : Clearing all expectations
+I, [2017-03-09T16:12:44.570147 #38864]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T16:12:44.577214 #38864] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T16:13:52.470814 #38899]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fa2d82a5f08> on port 1234...
+I, [2017-03-09T16:13:52.590519 #38899]  INFO -- : Started on port 1234
+I, [2017-03-09T16:13:52.658339 #38899]  INFO -- : Clearing all expectations
+I, [2017-03-09T16:13:52.670155 #38899]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T16:13:52.677117 #38899] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T16:14:31.645499 #38930]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fe4d4226300> on port 1234...
+I, [2017-03-09T16:14:31.866364 #38930]  INFO -- : Started on port 1234
+I, [2017-03-09T16:14:31.931449 #38930]  INFO -- : Clearing all expectations
+I, [2017-03-09T16:14:31.955012 #38930]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T16:14:31.963330 #38930] DEBUG -- : Supposed to be stopping
+I, [2017-03-09T16:14:52.754543 #38940]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fac0f2a90f0> on port 1234...
+I, [2017-03-09T16:14:52.874142 #38940]  INFO -- : Started on port 1234
+I, [2017-03-09T16:14:52.938972 #38940]  INFO -- : Clearing all expectations
+I, [2017-03-09T16:14:52.951033 #38940]  INFO -- : Verifying interactions for AnimalServiceClientTest
+D, [2017-03-09T16:14:52.958016 #38940] DEBUG -- : Supposed to be stopping

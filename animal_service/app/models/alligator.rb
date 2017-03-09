@@ -1,0 +1,2 @@
+class Alligator < ApplicationRecord
+end

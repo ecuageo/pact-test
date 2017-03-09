@@ -1,0 +1,45 @@
+I, [2017-03-09T16:14:52.942374 #38940]  INFO -- : Cleared interactions before example "AnimalServiceClientTest"
+I, [2017-03-09T16:14:52.946345 #38940]  INFO -- : Registered expected interaction GET /alligators/100.json
+D, [2017-03-09T16:14:52.946415 #38940] DEBUG -- : {
+  "description": "a request for an alligator",
+  "provider_state": "an alligator exists",
+  "request": {
+    "method": "get",
+    "path": "/alligators/100.json",
+    "query": ""
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+    },
+    "body": {
+      "name": "Mary"
+    }
+  }
+}
+I, [2017-03-09T16:14:52.950440 #38940]  INFO -- : Received request GET /alligators/100.json
+D, [2017-03-09T16:14:52.950504 #38940] DEBUG -- : {
+  "path": "/alligators/100.json",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Accept": "*/*",
+    "User-Agent": "Ruby",
+    "Connection": "close",
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2017-03-09T16:14:52.950617 #38940]  INFO -- : Found matching response for GET /alligators/100.json
+D, [2017-03-09T16:14:52.950655 #38940] DEBUG -- : {
+  "status": 200,
+  "headers": {
+  },
+  "body": {
+    "name": "Mary"
+  }
+}
+I, [2017-03-09T16:14:52.953853 #38940]  INFO -- : Verifying - interactions matched for example "AnimalServiceClientTest"
+I, [2017-03-09T16:14:52.957307 #38940]  INFO -- : Writing pact with details {:consumer=>{:name=>"Zoo App"}, :provider=>{:name=>"Animal Service"}, :pactfile_write_mode=>"overwrite", :pact_dir=>"/Users/george.south/test/pact-test/zoo/spec/pacts"}
+I, [2017-03-09T16:14:52.957365 #38940]  INFO -- : Writing pact for Animal Service to /Users/george.south/test/pact-test/zoo/spec/pacts/zoo_app-animal_service.json
