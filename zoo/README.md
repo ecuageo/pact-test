@@ -46,7 +46,7 @@ animal_service.given("an alligator exists").
 
 ### Run the specs
 
-`rake test`
+`ruby -Ilib:test test/service_providers/animal_service_client_test.rb`
 
 ### Publish the resulting pacts
 
